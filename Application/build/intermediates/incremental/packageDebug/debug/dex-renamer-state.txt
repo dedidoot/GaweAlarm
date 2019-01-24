@@ -1,0 +1,4 @@
+#Thu Jan 24 15:04:49 ICT 2019
+base.0=C\:\\products\\android-RepeatingAlarm-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
